@@ -1,4 +1,7 @@
-# GithubProfileSearcher
+# Github Profile Searcher
+
+This is a simple get started app with Angular to search github profile by username.
+Make sure to add your client id and client secret in environment ts file by registering your a github OAuth App.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
